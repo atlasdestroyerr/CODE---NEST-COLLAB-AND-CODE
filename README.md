@@ -12,8 +12,6 @@ A real-time collaborative code editor that brings developers together — enabli
 - 🎨 **Syntax Highlighting** – Language-aware code highlighting with CodeMirror.
 - ⚙️ **Code Execution** – Run code in various languages via Piston API.
 - 👥 **User Presence Tracking** – See who is online and actively editing.
-- 🤖 **AI Copilot** – Generate or complete code using AI.
-- ✏️ **Collaborative Whiteboard** – Draw diagrams and sketch ideas visually.
 - 🎨 **Editor Customization** – Choose from themes, fonts, and layout options.
 - ⬇️ **Download Project** – Export the complete codebase as a ZIP file.
 
