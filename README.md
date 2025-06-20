@@ -1,6 +1,6 @@
 # 🚀 Code Nest
 
-A real-time collaborative code editor that brings developers together — enabling live code sharing, execution, syntax highlighting, chat, and more. Whether you're pair-programming, teaching, or conducting interviews, Code Nest makes it seamless.
+A real-time collaborative code editor designed to bring developers together. Whether you're pair programming, teaching, or conducting interviews, this platform makes collaboration seamless — offering live code sharing, real-time execution, syntax highlighting, in-browser chat, and more. It's everything you need to code together, smarter and faster
 
 ---
 
